@@ -3,6 +3,10 @@
 
 ## Slides
 
+### 8. Mai 2018
+* Benjamin Wolters - Agiles Requirements Engineering
+* Sebastian Rakel - Toolchain Jenkins
+
 ### 6. März 2018
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-nine-1915601)
 * Marcel Thole - Gitlab [Slides](https://talks.marcelthole.de/toolchains/gitlab.html)

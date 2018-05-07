@@ -3,7 +3,7 @@
 
 ## Slides
 
-### 8. Mai 2018
+### ~~8. Mai 2018~~ postponed
 * Benjamin Wolters - Agiles Requirements Engineering
 * Sebastian Rakel - Toolchain Jenkins
 

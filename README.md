@@ -5,7 +5,7 @@ den [RSS-Feed](https://github.com/lngn-agile-meetup/lngn-agile-meetup.github.io/
 
 ## Termine 2018
 
-### ~~8. Mai 2018~~ postponed
+### ~~8. Mai 2018~~ verschoben auf den 30. Mai 2018
 * Benjamin Wolters - Agiles Requirements Engineering
 * Sebastian Rakel - Toolchain Jenkins
 

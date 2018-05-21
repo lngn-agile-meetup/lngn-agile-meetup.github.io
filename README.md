@@ -6,11 +6,12 @@ den [RSS-Feed](https://github.com/lngn-agile-meetup/lngn-agile-meetup.github.io/
 ## Termine 2018
 
 ### ~~8. Mai 2018~~ verschoben auf den 30. Mai 2018
+* [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-1949515)
 * Benjamin Wolters - Agiles Requirements Engineering
 * Sebastian Rakel - Toolchain Jenkins
 
 __Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)
-__Uhrzeit:__ 18:00 Uhr
+__Uhrzeit:__ 19:00 Uhr
 
 ### 6. März 2018
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-nine-1915601)

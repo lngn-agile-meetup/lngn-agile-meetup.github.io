@@ -66,7 +66,7 @@ __Uhrzeit:__ 18:00 Uhr
 ### 30. August 2016
 * Case Study über das Testframework Testlink
 * Large Agile Frameworks LeSS, Nexus und SAFe 
-* Case Study aus dem Kernkraftwerk Emsland
+* Case Study aus dem Kernkraftwerk Emsland - [Präsentation](assets/2016_08_30_KUB.ppsx)
 
 __Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)
 __Uhrzeit:__ 18:00 Uhr

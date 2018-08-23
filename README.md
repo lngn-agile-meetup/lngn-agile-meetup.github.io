@@ -1,7 +1,8 @@
 # LNGN-Agile-Meetup
-Unsere Veranstaltungen finden einmal im Quartal im IT-Zentrum Lingen statt. 
-Wenn Ihr über die neusten Veranstaltungen informiert werden wollt, könnt Ihr gerne 
-den [RSS-Feed](https://github.com/lngn-agile-meetup/lngn-agile-meetup.github.io/commits/master.atom) abonnieren
+Das LNGN Agile Meetup diskutiert regelmäßig Themen rund um moderner Softwareentwicklung und Agilen Methoden. Regelmäßig wechselnde Speaker und die Möglichkeit sich jederzeit einzubringen machen das Meetup zu einem idealen Ort zur persönlichen Weiterentwicklung und zum Netzwerken. Unsere Veranstaltungen finden einmal im Quartal im IT-Zentrum Lingen statt. Wenn Ihr über die neusten Veranstaltungen informiert werden wollt, könnt Ihr gerne den [RSS-Feed](https://github.com/lngn-agile-meetup/lngn-agile-meetup.github.io/commits/master.atom) abonnieren. Wir freuen uns über deine teilnahme.
+
+Viele Grüße 
+Ben und Marcel
 
 ## Termine 2018
 

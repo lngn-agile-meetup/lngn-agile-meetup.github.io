@@ -6,6 +6,13 @@ Ben und Marcel
 
 ## Termine 2018
 
+### 24. September 2018
+* [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-1979291)
+* Lightning Talks rund um verschiedenen Ticketsysteme
+
+__Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)
+__Uhrzeit:__ 19:00 Uhr
+
 ### ~~8. Mai 2018~~ verschoben auf den 30. Mai 2018
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-1949515)
 * Benjamin Wolters - Agiles Requirements Engineering

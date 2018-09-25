@@ -1,9 +1,10 @@
 # LNGN-Agile-Meetup
+
+<img align="right" alt="Ein Meetup in 2017" src="allgemeines/logo-2018.png" height="200"/>
+
 Das LNGN Agile Meetup diskutiert regelmäßig Themen rund um moderner Softwareentwicklung und Agilen Methoden. Regelmäßig wechselnde Speaker und die Möglichkeit sich jederzeit einzubringen machen das Meetup zu einem idealen Ort zur persönlichen Weiterentwicklung und zum Netzwerken. Unsere Veranstaltungen finden einmal im Quartal im IT-Zentrum Lingen statt. Wenn Ihr über die neusten Veranstaltungen informiert werden wollt, könnt Ihr gerne den [RSS-Feed](https://github.com/lngn-agile-meetup/lngn-agile-meetup.github.io/commits/master.atom) abonnieren. Wir freuen uns über deine Teilnahme.
 
-<center>
-<img alt="Ein Meetup in 2017" src="allgemeines/foto-der-teilnehmer.jpg" width="425"/> 
-</center>
+<img align="center" alt="Ein Meetup in 2017" src="allgemeines/foto-der-teilnehmer.jpg" width="425"/>
 
 Viele Grüße 
 Ben und Marcel
@@ -37,7 +38,10 @@ __Uhrzeit:__ 18:30 Uhr
 
 ## Termine 2017
 
+
 ### 28. November 2017 - CLEAN CODE Special
+Ein  Special: Clean Code von Björn Meschede; [Zusammenfassung](meetups/201711028-meetup8-cleancode).
+
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-clean-code-special-1873530)
 * Björn Meschede - Clean Code: A Hitchhiker's Guide
 
@@ -53,6 +57,9 @@ __Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)
 __Uhrzeit:__ 18:30 Uhr
 
 ### 13. Juli 2017
+
+Ein  Special: Guerilla Kanban von Christoph Meyer; [Zusammenfassung](meetups/20170713-meetup6-guerillakanban)
+
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-1833581)
 * Benjamin Wolters - Guerilla Kanban
 

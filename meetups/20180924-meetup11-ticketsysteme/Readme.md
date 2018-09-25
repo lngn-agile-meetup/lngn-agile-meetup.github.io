@@ -8,6 +8,9 @@ Agiles Management in entsprechenden Projekten erfordert eine oder mehrere Varian
 - Redmine ist der Vorgänger von OpenProject. Jedoch zeichnet es sich durch einen ähnlichen Funktionsumfang aus. Eine schlichtere GUI und umfangreiche Konfigurationsmöglichkeit zeichnen Redmine aus.
 
 Zudem existieren für jedes System Dienstleister, welche Hosting und Support für den AdHoc Einsatz. Somit können Teams auch ohne zusätzlichen Aufwand durch Wartung und Pflege die Systeme einsetzen.
+
+<img als="Abbildung 3: Atlassian Jira" src="photos/standup.jpg" width="425"/> 
+
 In einer zweieinhalbstündigen Session ist jedem System 30 Minuten gewidmet worden. Dabei wurde Funktionsumfang, Usability, Kosten, Responsibility und Eignung für agile Vorgehen betrachtet. Als fünfte Variante organisieren wir unser Meetup durch ein physisches Scrum-Board. Sofern Teams physisch am selben Ort arbeiten, empfehlen wir grundsätzlich ein physisches Board, um Teambegegnungen und Motivation zu fördern. Abbildung 1 zeigt unser Board und zugleich die Agenda:
 
 Abbildung1

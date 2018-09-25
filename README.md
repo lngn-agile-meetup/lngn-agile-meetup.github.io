@@ -40,7 +40,8 @@ __Uhrzeit:__ 18:30 Uhr
 ## Termine 2017
 
 ### 28. November 2017 - CLEAN CODE Special
-Ein  Special: Clean Code von Björn Meschede; [Zusammenfassung](meetups/20171128-meetup8-cleancode).
+Ein  Special: Clean Code von Björn Meschede.
+Zur [Zusammenfassung](meetups/20171128-meetup8-cleancode).
 
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-clean-code-special-1873530)
 * Björn Meschede - Clean Code: A Hitchhiker's Guide
@@ -58,7 +59,8 @@ __Uhrzeit:__ 18:30 Uhr
 
 ### 13. Juli 2017
 
-Ein  Special: Guerilla Kanban von Christoph Meyer; [Zusammenfassung](meetups/20170713-meetup6-guerillakanban)
+Ein  Special: Guerilla Kanban von Christoph Meyer.
+Zur [Zusammenfassung](meetups/20170713-meetup6-guerillakanban).
 
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-1833581)
 * Benjamin Wolters - Guerilla Kanban
@@ -79,7 +81,7 @@ __Uhrzeit:__ 18:00 Uhr
 
 ### 24. November 2016
 * [XING Veranstaltung](https://www.xing.com/events/docker-action-lngn-agile-meetup-four-1745326)
-* Docker in Action
+* Docker in Action - Marcel Thole
 
 __Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)
 __Uhrzeit:__ 18:00 Uhr

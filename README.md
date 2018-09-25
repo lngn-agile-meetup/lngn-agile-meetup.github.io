@@ -36,11 +36,11 @@ __Uhrzeit:__ 19:00 Uhr
 __Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)
 __Uhrzeit:__ 18:30 Uhr
 
+
 ## Termine 2017
 
-
 ### 28. November 2017 - CLEAN CODE Special
-Ein  Special: Clean Code von Björn Meschede; [Zusammenfassung](meetups/201711028-meetup8-cleancode).
+Ein  Special: Clean Code von Björn Meschede; [Zusammenfassung](meetups/20171128-meetup8-cleancode).
 
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-clean-code-special-1873530)
 * Björn Meschede - Clean Code: A Hitchhiker's Guide

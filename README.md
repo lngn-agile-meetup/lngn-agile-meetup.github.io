@@ -7,6 +7,9 @@ Ben und Marcel
 ## Termine 2018
 
 ### 24. September 2018
+
+In diesem Meetup verglichen die Teilnehmer verschiedene Ticketsysteme am Beispiel.[Zusammenfassung](meetups/20180924-meetup11-ticketsysteme).
+
 * [XING Veranstaltung](https://www.xing.com/events/lngn-agile-meetup-1979291)
 * Lightning Talks rund um verschiedenen Ticketsysteme
 

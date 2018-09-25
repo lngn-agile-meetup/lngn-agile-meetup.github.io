@@ -1,5 +1,5 @@
 # LNGN Agile Meetup 
-##Vergleich mehrerer Ticketsysteme im Agilen Management
+## Lightning Talks über Ticketsysteme im Agilen Management
 
 Agiles Management in entsprechenden Projekten erfordert eine oder mehrere Varianten zum Aufgabentracking. Im elften Agilen Meetup verglichen wir eine Auswahl an Ticketsystemen. Mehrere Teilnehmer bereiteten die Systeme OpenProject, Atlassian JIRA, Gitlab und Redmine vor.
 - OpenProject ist, wie der Name schon mitteilt, ein quelloffenes System zum Management von Projekten. Dazu eignet sich OP sowohl für Softwareprodukte als auch für jede Art weiterer Produkte. OP ist ein Fork von Redmine.
@@ -24,13 +24,13 @@ Abbildung 2 bis 5 zeigen die GUI der betrachteten Systeme und sollen dem Leser z
 
 In der Regel diskutieren die Teilnehmer direkt und viel miteinander. Um diese Informationsflut zu tracken moderieren Marcel Thole (Check24) und Benjamin Wolters (viadee) unsere Events per Flipchart oder Metaleinwand. Vor allem die Eingenschaften der Systeme wurden direkt festgehalten, Abbildung 6 zeigt das zugehörige Flipchart. Die Matrix listet vertikal die Systeme und horizontal die Eigenschaften Resposibility für den mobilen Einsatz, Art der Tickets, Eignung für Agilität, Aufwandsprotokollierung und Zusatzfunktionen. 
 
-<img alt="Abbildung 6: Vergleich" src="photos/flipchart-vergleich.jpg" width="600"/>
+<img alt="Abbildung 6: Vergleich" src="photos/flipchart-vergleich.jpg" width="400"/>
 
-<img alt="Abbildung 7: Jira Issue relations" src="photos/flipchart-jira-issuesystem.jpg" width="600"/>
+<center><img alt="Abbildung 7: Jira Issue relations" src="photos/flipchart-jira-issuesystem.jpg" width="400"/></center>
 
 Hier Zeit sich, dass die vier Ticketsysteme dieselben Grundfunktionen implementieren. In den Details zeigt sich dann der Unterschied. Lediglich das Systeme Redmine bringt in der Grundfunktion keine Visualisierung eines Agile Boards mit. Jedoch kann dieses per Pluginsystem nachgerüstet werden.
 
-<img alt="Abbildung 8: Fazit" src="photos/flipchart-fazit.jpg" width="600"/>
+<img alt="Abbildung 8: Fazit" src="photos/flipchart-fazit.jpg" width="400"/>
 
 Viele Grüße
 Ben

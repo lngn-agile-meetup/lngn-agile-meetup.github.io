@@ -74,7 +74,7 @@ __Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems) 
 ## Termine 2016
 
 ### 24. November 2016
-* Docker in Action [Slides](https://talks.marcelthole.de/docker/)
+* Marcel Thole - Docker in Action [Slides](https://talks.marcelthole.de/docker/)
 * [XING Veranstaltung](https://www.xing.com/events/docker-action-lngn-agile-meetup-four-1745326)
 * [Zusammenfassung](meetups/20161124-meetup4-docker)
 

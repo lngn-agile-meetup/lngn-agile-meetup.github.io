@@ -6,3 +6,15 @@
 header {
   text-align: center;
 }
+
+@media screen and (min-width: 961px) {
+  body {
+    padding: 30px 0;
+  }
+  .wrapper {
+    width: 910px;
+  }
+  section {
+    width: 550px;
+  }
+}

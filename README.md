@@ -9,10 +9,10 @@ Ben und Marcel
 
 ## Termine 2019
 
-* 14. März im IT Zentrum Seminarraum 3
-* 13. Juni im IT Zentrum Seminarraum 3
-* 19. September im IT Zentrum Seminarraum 3
-* 28. November im IT Zentrum Seminarraum 3
+* '14. März im IT Zentrum Seminarraum 3
+* '13. Juni im IT Zentrum Seminarraum 3
+* '19. September im IT Zentrum Seminarraum 3
+* '28. November im IT Zentrum Seminarraum 3
 
 ## Termine 2018
 

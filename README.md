@@ -14,6 +14,15 @@ Ben und Marcel
 * '19. September im IT Zentrum Seminarraum 3
 * '28. November im IT Zentrum Seminarraum 3
 
+### 14. März 2019
+* Benjamin Wolters - Agilität ist mehr als Scrum
+* Christopher Metz - Projektbericht "Künstliche Neuronale Netze zur Bildklassifikation"
+* Marcel Thole - Entmystifizierung CI / CD
+* [Veranstaltung bei Meetup](https://www.meetup.com/de-DE/LNGN-Agile-Meetup/events/259293506/)
+
+__Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)  
+__Uhrzeit:__ 18:00 Uhr
+
 ## Termine 2018
 
 ### 24. September 2018

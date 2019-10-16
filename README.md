@@ -10,9 +10,32 @@ Ben und Marcel
 ## Termine 2019
 
 * '14. März im IT Zentrum Seminarraum 3
-* '13. Juni im IT Zentrum Seminarraum 3
-* '19. September im IT Zentrum Seminarraum 3
-* '28. November im IT Zentrum Seminarraum 3
+* '4. Juli im IT Zentrum Seminarraum 3
+* '17. September bei der LANDWEHR Akademie
+* '28. November im IT Zentrum, CoWorking Space
+
+### 28. November 2019
+* tbd
+* [Veranstaltung bei Meetup](https://www.meetup.com/de-DE/LNGN-Agile-Meetup/events/259304537/)
+
+__Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)  
+__Uhrzeit:__ 18:00 Uhr
+
+### 17. September 2019
+* Sebastian Rakel - Ansible, Puppet ... ist doch alles das gleiche
+* Nicole Neunhöffer - SDFTWhat? Selbsorganisation zu Beginn eines Agilen Projekts
+* [Veranstaltung bei Meetup](https://www.meetup.com/de-DE/LNGN-Agile-Meetup/events/259304514/)
+
+__Veranstaltungsort:__ LANDWEHR Akademie, Von-Humboldt-Straße 1, 49835 Wietmarschen
+__Uhrzeit:__ 18:00 Uhr
+
+### 4. Juli 2019
+* Parick Blom - BitBucket Pipelines
+* Nils Bergmann - Erfahrungen nach 6 Monaten SCRUM
+* [Veranstaltung bei Meetup](https://www.meetup.com/de-DE/LNGN-Agile-Meetup/events/259304442/)
+
+__Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)  
+__Uhrzeit:__ 18:00 Uhr
 
 ### 14. März 2019
 * Benjamin Wolters - Agilität ist mehr als Scrum
